@@ -1,4 +1,4 @@
-# simple-landing-page
+# tackling-novel-coronavirus
 
 ## Project setup
 ```

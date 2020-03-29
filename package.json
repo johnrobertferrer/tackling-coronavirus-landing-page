@@ -1,5 +1,5 @@
 {
-  "name": "simple-landing-page",
+  "name": "tackling-novel-coronavirus",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,10 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "buefy": "^0.8.13",
     "core-js": "^3.6.4",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
+    "vue2-smooth-scroll": "^1.2.0",
     "vuex": "^3.1.2"
   },
   "devDependencies": {
