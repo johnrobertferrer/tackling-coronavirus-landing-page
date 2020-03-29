@@ -14,13 +14,13 @@
                 <b-navbar-item href="#home" class="c-ml-3" v-smooth-scroll>
                     Home
                 </b-navbar-item>
-                <b-navbar-item href="#section-1" class="c-ml-2" v-smooth-scroll>
+                <b-navbar-item href="#section-1" class="c-ml-3" v-smooth-scroll>
                     Section 1
                 </b-navbar-item>
-                <b-navbar-item href="#section-2" class="c-ml-2" v-smooth-scroll>
+                <b-navbar-item href="#section-2" class="c-ml-3" v-smooth-scroll>
                     Section 2
                 </b-navbar-item>
-                <b-navbar-item href="#section-3" class="c-ml-2" v-smooth-scroll>
+                <b-navbar-item href="#section-3" class="c-ml-3" v-smooth-scroll>
                     Section 3
                 </b-navbar-item>
             </template>
@@ -36,8 +36,8 @@
 
 <style>
     .navbar-brand {
-        -webkit-flex: 0 0 auto;
-        flex: 0 0 auto;
+        -webkit-flex: 1 1 auto !important;
+        flex: 0 1 auto !important;
     }
 
     .navbar-burger {
