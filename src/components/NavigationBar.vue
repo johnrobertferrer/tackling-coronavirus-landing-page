@@ -36,6 +36,7 @@
 
 <style>
     .navbar-burger {
-        right: 20vw !important;
+        right: 0 !important;
+        padding-right: 50vw;
     }
 </style>
