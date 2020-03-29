@@ -1,6 +1,6 @@
 <template>
 	<div class="home">
-		<section class="section c-s-full is-medium" id="home">
+		<section class="section c-s-full" id="home">
 			<div class="container">
 				<h1 class="title is-1 has-text-primary c-mt-7">COVID-19 epidemic math models and some insights focusing on the Philippines</h1>
 				<h2 class="subtitle c-mt-7">Published online: 22 March 2020</h2>
@@ -9,7 +9,7 @@
 			</div>
 		</section>
 
-		<section class="section c-s-full is-medium" id="section-1">
+		<section class="section c-s-full" id="section-1">
 			<div class="container">
 				<h1 class="title is-1 has-text-primary c-mt-7">COVID-19 epidemic math models and some insights focusing on the Philippines</h1>
 				<h2 class="subtitle c-mt-7">Published online: 22 March 2020</h2>
@@ -18,7 +18,7 @@
 			</div>
 		</section>
 
-		<section class="section c-s-full is-medium" id="section-2">
+		<section class="section c-s-full" id="section-2">
 			<div class="container">
 				<h1 class="title is-1 has-text-primary c-mt-7">COVID-19 epidemic math models and some insights focusing on the Philippines</h1>
 				<h2 class="subtitle c-mt-7">Published online: 22 March 2020</h2>
@@ -27,7 +27,7 @@
 			</div>
 		</section>
 
-		<section class="section c-s-full is-medium c-mb-8" id="section-3">
+		<section class="section c-s-full" id="section-3">
 			<div class="container">
 				<h1 class="title is-1 has-text-primary c-mt-7">COVID-19 epidemic math models and some insights focusing on the Philippines</h1>
 				<h2 class="subtitle c-mt-7">Published online: 22 March 2020</h2>
@@ -37,6 +37,7 @@
 		</section>
 
 		<!-- FOOTER -->
+		<div class="c-pt-8 c-pb-8"></div>
 
 		<footer class="footer has-background-primary">
 			<div class="content has-text-centered">
