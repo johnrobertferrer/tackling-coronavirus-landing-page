@@ -38,7 +38,7 @@
 		</section>
 
 		<!-- FOOTER -->
-		<div class="c-pt-4 c-pb-4"></div>
+		<div class="c-pt-5 c-pb-5"></div>
 
 		<footer class="footer has-background-primary">
 			<div class="content has-text-centered">

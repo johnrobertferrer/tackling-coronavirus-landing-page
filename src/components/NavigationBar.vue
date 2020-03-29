@@ -40,7 +40,7 @@
         flex: 0 1 auto !important;
     }
 
-    .navbar-burger {
-        width: 100% !important;
+    .navbar-brand a {
+        width: 50% !important;
     }
 </style>
