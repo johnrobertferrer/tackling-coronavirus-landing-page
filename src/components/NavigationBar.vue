@@ -1,6 +1,6 @@
 <template>
     <div>
-        <b-navbar fixed-top spaced type="is-primary" shadow :is-active="true">
+        <b-navbar fixed-top spaced type="is-primary" shadow :is-active="false">
             <template slot="brand">
                 <b-navbar-item tag="router-link" :to="{ path: '/#home' }" href="#home" class="has-background-light" v-smooth-scroll>
                     <img

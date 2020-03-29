@@ -1,7 +1,7 @@
 /* SECTIONS */
 
 .c-s-full {
-    height: 100vh;
+    height: 100%;
 }
 
 /* MARGIN */
@@ -255,3 +255,9 @@
 .c-pl-8 {
     padding-left: 8rem !important;
 }
+
+/* @media only screen and (min-width: 768px) {
+    .c-mb-8 {
+        margin-bottom: 1rem !important;
+    }
+} */

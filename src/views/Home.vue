@@ -1,7 +1,7 @@
 <template>
 	<div class="home">
 		<div class="c-pt-5 c-pb-3" id="home"></div>
-		<section class="section c-s-full">
+		<section class="section c-s-full c-mb-8">
 			<div class="container c-pb-6">
 				<h1 class="title is-1 has-text-primary">COVID-19 epidemic math models and some insights focusing on the Philippines</h1>
 				<h2 class="subtitle c-mt-7">Published online: 22 March 2020</h2>
@@ -10,7 +10,7 @@
 			</div>
 		</section>
 
-		<section class="section c-s-full" id="section-1">
+		<section class="section c-s-full c-mb-8" id="section-1">
 			<div class="container c-pb-6">
 				<h1 class="title is-1 has-text-primary c-mt-3">COVID-19 epidemic math models and some insights focusing on the Philippines</h1>
 				<h2 class="subtitle c-mt-7">Published online: 22 March 2020</h2>
@@ -19,7 +19,7 @@
 			</div>
 		</section>
 
-		<section class="section c-s-full" id="section-2">
+		<section class="section c-s-full c-mb-8" id="section-2">
 			<div class="container c-pb-6">
 				<h1 class="title is-1 has-text-primary c-mt-3">COVID-19 epidemic math models and some insights focusing on the Philippines</h1>
 				<h2 class="subtitle c-mt-7">Published online: 22 March 2020</h2>
@@ -28,7 +28,7 @@
 			</div>
 		</section>
 
-		<section class="section c-s-full" id="section-3">
+		<section class="section c-s-full c-mb-5" id="section-3">
 			<div class="container c-pb-6">
 				<h1 class="title is-1 has-text-primary c-mt-3">COVID-19 epidemic math models and some insights focusing on the Philippines</h1>
 				<h2 class="subtitle c-mt-7">Published online: 22 March 2020</h2>
