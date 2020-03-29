@@ -35,8 +35,8 @@
 </script>
 
 <style>
-    /* .navbar-burger {
-        left: 0 !important;
-        padding-left: 10vw;
-    } */
+    .navbar-brand {
+        -webkit-flex: 0 0 auto;
+        flex: 0 0 auto;
+    }
 </style>

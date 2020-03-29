@@ -62,6 +62,10 @@
     margin-top: 7rem !important;
 }
 
+.c-mt-8 {
+    margin-top: 8rem !important;
+}
+
 .c-mb-1 {
     margin-bottom: 0.5rem !important;
 }
@@ -90,6 +94,10 @@
     margin-bottom: 7rem !important;
 }
 
+.c-mb-8 {
+    margin-bottom: 8rem !important;
+}
+
 .c-ml-1 {
     margin-left: 0.5rem !important;
 }
@@ -116,4 +124,8 @@
 
 .c-ml-7 {
     margin-left: 7rem !important;
+}
+
+.c-ml-8 {
+    margin-left: 8rem !important;
 }
