@@ -32,8 +32,15 @@
 
                 setTimeout(() => {
                     this.isLoading = false;
-                }, 2500)
+                }, 2000)
             }
         }
 	}
 </script>
+
+<style>
+	.loading-background {
+		background: #7957d5 !important;
+		background: rgba(121, 87, 213, 1) !important;
+	}
+</style>

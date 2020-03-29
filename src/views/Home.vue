@@ -38,11 +38,11 @@
 
 		<!-- FOOTER -->
 
-		<section class="section has-background-primary" id="footer">
-			<div class="container">
-				<h2 class="subtitle has-text-centered has-text-light">© 2020 Copyright | All rights reserved. </h2>
+		<footer class="footer has-background-primary">
+			<div class="content has-text-centered">
+				<h2 class="subtitle is-5 has-text-light">© 2020 Copyright | All rights reserved.</h2>
 			</div>
-		</section>
+		</footer>
 	</div>
 </template>
 
