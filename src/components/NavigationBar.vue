@@ -33,3 +33,9 @@
         name: 'NavigationBar',
     }
 </script>
+
+<style>
+    .navbar-burger {
+        padding-right: 40vw !important;
+    }
+</style>
