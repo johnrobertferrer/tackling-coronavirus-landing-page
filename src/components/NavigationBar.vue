@@ -39,4 +39,8 @@
         -webkit-flex: 0 0 auto;
         flex: 0 0 auto;
     }
+
+    .navbar-burger {
+        width: 100% !important;
+    }
 </style>
